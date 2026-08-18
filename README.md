@@ -2,7 +2,9 @@
 
 # 👋 Hey, I'm Devmaster 🚀
 
-### AI + Web Product Builder
+### 🚀 AI + Web Product Builder
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Frontend+Developer;Shopify+Developer;AI+Product+Builder;Open+Source+Contributor" />
 
 </div>
 
