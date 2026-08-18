@@ -30,56 +30,66 @@ Focused on:
 ⚡ Quickdraw
 
 ---
-
 # 🚀 Featured Projects
 
+<table>
+<tr>
+<td width="50%">
 
 ## 🧠 MeetMind Pro
 
 AI Meeting Intelligence Workspace
 
-Features:
+✨ Features:
 - Transcript Analysis
-- Meeting Summaries
-- Action Items Detection
+- AI Meeting Summary
+- Action Detection
 - Voice Capture
 - Meeting Analytics
 
-Tech:
+🛠 Tech:
 HTML • CSS • JavaScript
 
+</td>
 
----
+<td width="50%">
 
 ## 📄 ResumeCraft
 
 Modern Resume Builder
 
-Features:
-- Live Resume Preview
+✨ Features:
+- Live Preview
 - Dynamic Sections
 - PDF Export
 - Responsive Design
 
-
-Tech:
+🛠 Tech:
 HTML • CSS • JavaScript
 
+</td>
+</tr>
 
----
+<tr>
+<td width="50%">
 
 ## 💰 Expense Tracker
 
-Personal Finance Management Application
+Personal Finance Manager
 
-Features:
+✨ Features:
 - Transaction Management
 - Budget Tracking
 - Dashboard Analytics
 - Local Storage
 
+🛠 Tech:
+JavaScript
 
----
+</td>
+
+</tr>
+</table>
 
 # 🛠 Tech Stack
 
@@ -102,17 +112,23 @@ Features:
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
----
+
 
 # 📊 GitHub Analytics
-
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaster1987" />
+<img src="https://github-profile-trophy.vercel.app/?username=devmaster1987&theme=tokyonight&column=4&no-frame=true" />
 
 </div>
 
----
+# 🏆 GitHub Trophy
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=devmaster1987&theme=tokyonight&no-frame=true&margin-w=15" />
+
+</div>
+
 # 🌱 Currently Learning
 
 🤖 AI Engineering
