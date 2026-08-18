@@ -109,6 +109,22 @@ VS Code
 
 ---
 
+
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=devmaster1987&show_icons=true&theme=transparent&hide_border=true" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaster1987&layout=compact&theme=transparent&hide_border=true" />
+
+</div>
+
 # 🌱 Currently Learning
 
 🤖 AI Engineering
