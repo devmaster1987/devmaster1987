@@ -109,22 +109,15 @@ VS Code
 
 ---
 
-
-
----
-
 # 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=devmaster1987&show_icons=true&theme=transparent&hide_border=true" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaster1987&layout=compact&theme=transparent&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=devmaster1987" />
 
 </div>
 
+---
 # 🌱 Currently Learning
 
 🤖 AI Engineering
@@ -157,3 +150,14 @@ LinkedIn:
 
 
 ⭐ Thanks for visiting my profile!
+
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devmaster1987/devmaster1987/output/github-contribution-grid-snake.svg" />
+
+</div>
