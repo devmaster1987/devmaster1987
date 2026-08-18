@@ -112,7 +112,23 @@ JavaScript
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
+---
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<img height="170" src="https://github-readme-stats-eight-theta.vercel.app/api?username=devmaster1987&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://streak-stats.demolab.com/?user=devmaster1987&theme=tokyonight&hide_border=true" />
+
+</div>
+# 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=devmaster1987&theme=tokyo-night&hide_border=true" />
+
+</div>
 
 # 🌱 Currently Learning
 
