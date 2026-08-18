@@ -83,30 +83,25 @@ Features:
 
 # 🛠 Tech Stack
 
+<div align="center">
 
 ### Frontend
 
-HTML5  
-CSS3  
-JavaScript  
-React  
+<img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
+<br/><br/>
 
-### CMS
+### CMS & Ecommerce
 
-Shopify  
-WordPress  
-Webflow  
+<img src="https://skillicons.dev/icons?i=shopify,wordpress,webflow" />
 
+<br/><br/>
 
 ### Tools
 
-Git  
-GitHub  
-Figma  
-VS Code
+<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
-
+</div>
 ---
 
 # 📊 GitHub Analytics
@@ -127,15 +122,6 @@ VS Code
 ☁️ Cloud Architecture
 
 🔧 Open Source Development
-
-
----
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmaster1987&show_icons=true)
-
-</div>
 
 
 ---
