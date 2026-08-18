@@ -115,17 +115,23 @@ JavaScript
 
 
 # 📊 GitHub Analytics
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devmaster1987&theme=tokyonight&column=4&no-frame=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=devmaster1987&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=devmaster1987&theme=tokyonight&hide_border=true" />
 
 </div>
+
+
+---
 
 # 🏆 GitHub Trophy
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=devmaster1987&theme=tokyonight&no-frame=true&margin-w=15" />
+<img src="https://github-profile-trophy.vercel.app/?username=devmaster1987&theme=tokyonight&column=4&no-frame=true" />
 
 </div>
 
