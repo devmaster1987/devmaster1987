@@ -151,14 +151,6 @@ LinkedIn:
 
 ⭐ Thanks for visiting my profile!
 
-
----
----
-
 ## 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/devmaster1987/devmaster1987/output/github-contribution-grid-snake.svg" />
-
-</div>
+![Snake Animation](./output/github-contribution-grid-snake.svg)
