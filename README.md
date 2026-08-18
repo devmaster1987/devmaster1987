@@ -153,11 +153,12 @@ LinkedIn:
 
 
 ---
+---
 
-# 🐍 Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
-![snake](https://raw.githubusercontent.com/devmaster1987/devmaster1987/output/github-contribution-grid-snake.svg)
+<img src="https://raw.githubusercontent.com/devmaster1987/devmaster1987/output/github-contribution-grid-snake.svg" />
 
 </div>
