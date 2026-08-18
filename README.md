@@ -10,31 +10,51 @@
 
 ## 🚀 AI + Web Product Builder
 
-I build modern web applications, AI-powered tools, and scalable digital experiences.
+I build intelligent digital products combining **Artificial Intelligence, modern web technologies, and scalable platforms.**
 
-Focused on:
+My focus:
 
-- 🤖 Artificial Intelligence
-- 🌐 Web Applications
-- 🛒 Shopify Development
-- 🧩 CMS Solutions
-- ⚡ Open Source Projects
+🤖 **AI Engineering**
+- AI-powered applications
+- Automation workflows
+- Intelligent productivity tools
+
+🌐 **Web Products**
+- Modern frontend experiences
+- Interactive dashboards
+- Scalable web applications
+
+🛒 **Commerce Platforms**
+- Shopify development
+- Custom ecommerce solutions
+- CMS architectures
+
+⚡ **Open Source**
+- Building public projects
+- Improving developer experience
+- Sharing knowledge
+
 
 
 ---
 ## 🏆 GitHub Achievements
 
-🧠 Galaxy Brain  
-🦈 Pull Shark  
-🤝 Pair Extraordinaire  
-⚡ Quickdraw
+<div align="center">
 
+<img src="https://img.shields.io/badge/🧠_Galaxy_Brain-Unlocked-blueviolet?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🦈_Pull_Shark-Unlocked-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🤝_Pair_Extraordinaire-Unlocked-green?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/⚡_Quickdraw-Unlocked-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/🚀_YOLO-Unlocked-red?style=for-the-badge" />
+
+</div>
 ---
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
 
 ## 🧠 MeetMind Pro
 
@@ -42,7 +62,7 @@ AI Meeting Intelligence Workspace
 
 ✨ Features:
 - Transcript Analysis
-- AI Meeting Summary
+- AI Summaries
 - Action Detection
 - Voice Capture
 - Meeting Analytics
@@ -50,9 +70,9 @@ AI Meeting Intelligence Workspace
 🛠 Tech:
 HTML • CSS • JavaScript
 
-</td>
 
-<td width="50%">
+---
+
 
 ## 📄 ResumeCraft
 
@@ -67,15 +87,13 @@ Modern Resume Builder
 🛠 Tech:
 HTML • CSS • JavaScript
 
-</td>
-</tr>
 
-<tr>
-<td width="50%">
+---
+
 
 ## 💰 Expense Tracker
 
-Personal Finance Manager
+Personal Finance Management App
 
 ✨ Features:
 - Transaction Management
@@ -84,12 +102,7 @@ Personal Finance Manager
 - Local Storage
 
 🛠 Tech:
-JavaScript
-
-</td>
-
-</tr>
-</table>
+HTML • CSS • JavaScript
 
 # 🛠 Tech Stack
 
