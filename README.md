@@ -112,7 +112,7 @@ JavaScript
 <img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
 
 </div>
----
+
 # 📊 GitHub Analytics
 
 <div align="center">
@@ -141,16 +141,10 @@ JavaScript
 🔧 Open Source Development
 
 
----
-
 # 🤝 Connect With Me
 
 GitHub:
 https://github.com/devmaster1987
-
-LinkedIn:
-(Add your link)
-
 
 ⭐ Thanks for visiting my profile!
 
