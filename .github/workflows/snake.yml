@@ -3,10 +3,14 @@ name: Generate Snake
 on:
   schedule:
     - cron: "0 */12 * * *"
+
   workflow_dispatch:
 
 jobs:
   generate:
+    permissions:
+      contents: write
+
     runs-on: ubuntu-latest
 
     steps:
@@ -14,10 +18,10 @@ jobs:
         with:
           github_user_name: devmaster1987
           outputs: |
-            dist/github-contribution-grid-snake.svg
+            output/github-contribution-grid-snake.svg
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake file
+        uses: EndBug/add-and-commit@v9
         with:
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          message: "Update contribution snake"
+          add: "output/github-contribution-grid-snake.svg"
