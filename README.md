@@ -142,9 +142,12 @@ JavaScript
 
 
 # 🤝 Connect With Me
+<p align="center">
+<a href="https://github.com/devmaster1987">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github">
+</a>
 
-GitHub:
-https://github.com/devmaster1987
+</p>
 
 ⭐ Thanks for visiting my profile!
 
