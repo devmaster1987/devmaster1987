@@ -1,16 +1,141 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**devmaster1987/devmaster1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hey, I'm Devmaster 🚀
 
-Here are some ideas to get you started:
+### AI + Web Product Builder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🚀 AI + Web Product Builder
+
+I build modern web applications, AI-powered tools, and scalable digital experiences.
+
+Focused on:
+
+- 🤖 Artificial Intelligence
+- 🌐 Web Applications
+- 🛒 Shopify Development
+- 🧩 CMS Solutions
+- ⚡ Open Source Projects
+
+
+---
+## 🏆 GitHub Achievements
+
+🧠 Galaxy Brain  
+🦈 Pull Shark  
+🤝 Pair Extraordinaire  
+⚡ Quickdraw
+
+---
+
+# 🚀 Featured Projects
+
+
+## 🧠 MeetMind Pro
+
+AI Meeting Intelligence Workspace
+
+Features:
+- Transcript Analysis
+- Meeting Summaries
+- Action Items Detection
+- Voice Capture
+- Meeting Analytics
+
+Tech:
+HTML • CSS • JavaScript
+
+
+---
+
+## 📄 ResumeCraft
+
+Modern Resume Builder
+
+Features:
+- Live Resume Preview
+- Dynamic Sections
+- PDF Export
+- Responsive Design
+
+
+Tech:
+HTML • CSS • JavaScript
+
+
+---
+
+## 💰 Expense Tracker
+
+Personal Finance Management Application
+
+Features:
+- Transaction Management
+- Budget Tracking
+- Dashboard Analytics
+- Local Storage
+
+
+---
+
+# 🛠 Tech Stack
+
+
+### Frontend
+
+HTML5  
+CSS3  
+JavaScript  
+React  
+
+
+### CMS
+
+Shopify  
+WordPress  
+Webflow  
+
+
+### Tools
+
+Git  
+GitHub  
+Figma  
+VS Code
+
+
+---
+
+# 🌱 Currently Learning
+
+🤖 AI Engineering
+
+⚛️ Advanced JavaScript
+
+☁️ Cloud Architecture
+
+🔧 Open Source Development
+
+
+---
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devmaster1987&show_icons=true)
+
+</div>
+
+
+---
+
+# 🤝 Connect With Me
+
+GitHub:
+https://github.com/devmaster1987
+
+LinkedIn:
+(Add your link)
+
+
+⭐ Thanks for visiting my profile!
