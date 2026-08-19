@@ -201,8 +201,6 @@ OpenAI APIs • AI Tools • Automation Workflows
 
 </div>
 
-## 🔥 Top Languages
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devmaster1987&layout=compact&theme=tokyonight&hide_border=true" />
 # 🌱 Currently Learning
 
 🤖 AI Engineering
