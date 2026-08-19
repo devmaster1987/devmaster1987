@@ -116,24 +116,53 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-### Frontend
+## 🎨 Frontend Development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-
-<br/><br/>
-
-### CMS & Ecommerce
-
-<img src="https://skillicons.dev/icons?i=shopify,wordpress,webflow" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
 
 <br/><br/>
 
-### Tools
+## ⚙️ Backend & APIs
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,vscode" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,graphql,fastapi" />
+
+<br/><br/>
+
+## 🛒 CMS & Ecommerce Platforms
+
+<img src="https://skillicons.dev/icons?i=shopify,wordpress,webflow,wix" />
+
+<br/><br/>
+
+## 🗄️ Databases & Storage
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
+
+<br/><br/>
+
+## 🤖 AI & Automation
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+<br/><br/>
+
+## ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify" />
+
+<br/><br/>
+
+## 🎨 Design & Collaboration
+
+<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,notion" />
+
+<br/><br/>
+
+## 🔧 Development Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
 
 </div>
-
 # 📊 GitHub Analytics
 
 <div align="center">
