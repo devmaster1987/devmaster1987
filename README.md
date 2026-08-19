@@ -116,51 +116,72 @@ HTML • CSS • JavaScript
 
 <div align="center">
 
-## 🎨 Frontend Development
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass" />
+### 🎨 Frontend Development
 
-<br/><br/>
-
-## ⚙️ Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,php,graphql,fastapi" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap" />
 
 <br/><br/>
 
-## 🛒 CMS & Ecommerce Platforms
+### 🛒 CMS & Ecommerce
 
 <img src="https://skillicons.dev/icons?i=shopify,wordpress,webflow,wix" />
 
 <br/><br/>
 
-## 🗄️ Databases & Storage
+### 🤖 AI & Automation
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=python" />
+
+<br/>
+
+OpenAI APIs • AI Tools • Automation Workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### ⚙️ Backend & APIs
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,graphql" />
 
 <br/><br/>
 
-## 🤖 AI & Automation
+### 🗄️ Database & Storage
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,firebase,supabase" />
 
 <br/><br/>
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 
 <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,vercel,netlify" />
 
-<br/><br/>
+</td>
+</tr>
 
-## 🎨 Design & Collaboration
+<tr>
+<td width="50%" valign="top">
 
-<img src="https://skillicons.dev/icons?i=figma,xd,photoshop,notion" />
+### 🎨 Design & Collaboration
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=figma,xd,ps,notion" />
 
-## 🔧 Development Tools
+</td>
+
+<td width="50%" valign="top">
+
+### 🔧 Development Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,npm,yarn" />
+
+</td>
+</tr>
+
+</table>
 
 </div>
 # 📊 GitHub Analytics
